@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarakterDegistirme", "KarakterDegistirme\KarakterDegistirme.csproj", "{F78D23EB-8134-4A53-943E-93090E4DFD56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F78D23EB-8134-4A53-943E-93090E4DFD56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78D23EB-8134-4A53-943E-93090E4DFD56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78D23EB-8134-4A53-943E-93090E4DFD56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78D23EB-8134-4A53-943E-93090E4DFD56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B9B6BCD-1FF7-4777-81DB-97DDA9E3CA28}
+	EndGlobalSection
+EndGlobal

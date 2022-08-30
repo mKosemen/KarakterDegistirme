@@ -1,0 +1,8 @@
+C:\Users\casper\Desktop\Patika\C#\KarakterDegistirme\KarakterDegistirme\bin\Debug\KarakterDegistirme.exe.config
+C:\Users\casper\Desktop\Patika\C#\KarakterDegistirme\KarakterDegistirme\bin\Debug\KarakterDegistirme.exe
+C:\Users\casper\Desktop\Patika\C#\KarakterDegistirme\KarakterDegistirme\bin\Debug\KarakterDegistirme.pdb
+C:\Users\casper\Desktop\Patika\C#\KarakterDegistirme\KarakterDegistirme\obj\Debug\KarakterDegistirme.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\Patika\C#\KarakterDegistirme\KarakterDegistirme\obj\Debug\KarakterDegistirme.csproj.SuggestedBindingRedirects.cache
+C:\Users\casper\Desktop\Patika\C#\KarakterDegistirme\KarakterDegistirme\obj\Debug\KarakterDegistirme.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Patika\C#\KarakterDegistirme\KarakterDegistirme\obj\Debug\KarakterDegistirme.exe
+C:\Users\casper\Desktop\Patika\C#\KarakterDegistirme\KarakterDegistirme\obj\Debug\KarakterDegistirme.pdb
